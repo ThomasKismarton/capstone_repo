@@ -1,5 +1,5 @@
 # capstone_repo
 
-### Adding some text to be rendered as Markdown
-
-I don't know why the previous line was not rendered properly but oh well
+### Hello!
+This repo serves as a gathering place for all of the distinct Jupyter notebooks being used to perform the data analysis process for Falcon 9 rocket launches.
+Inside each notebook, you can find a different piece of the data analysis process, documented and displayed for easy understanding.
